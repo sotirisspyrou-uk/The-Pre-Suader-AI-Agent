@@ -1,0 +1,40 @@
+{
+  "segment_name": "Tech Startup Founders",
+  "demographics": {
+    "age_range": "28-45",
+    "industry": "technology",
+    "role": "founder/CEO"
+  },
+  "tech_savvy": true,
+  "business_focused": true,
+  "risk_averse": false,
+  "pain_points": [
+    "scaling challenges",
+    "funding pressure",
+    "competitive market",
+    "team productivity"
+  ],
+  "values": [
+    "innovation",
+    "growth",
+    "efficiency",
+    "transparency"
+  ],
+  "channels": [
+    "email",
+    "linkedin",
+    "twitter",
+    "web"
+  ],
+  "decision_factors": [
+    "ROI",
+    "scalability",
+    "ease_of_use",
+    "support"
+  ],
+  "trust_indicators": [
+    "case_studies",
+    "peer_recommendations",
+    "free_trial"
+  ]
+}
