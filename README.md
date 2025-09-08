@@ -80,7 +80,7 @@ python src/presuader_cli.py ab-test output/strategy_*.json
 
 - **Documentation**: See docs/ directory for complete specifications
 - **Issues**: Create GitHub issues for bugs and feature requests
-- **Contact**: sotiris@verityai.co.uk
+- **Contact**: sotiris@verityai.co
 
 ---
 
